@@ -4,3 +4,17 @@
 为了gf不用手工查找网页数据，所以有这个简单的爬虫
 
 爬区里巴巴（国际版）指定信息
+
+需要的库
+python3.6.4
+
+openpyxl
+beautifulSoup4
+requests
+tkinter
+
+转exe文件
+pyinstaller
+
+命令 pyinstaller -Fd ./mosin.py
+
