@@ -18,5 +18,5 @@ pyinstaller
 
 命令 pyinstaller -Fd ./mosin.py
 
-<img ./demo.png />
+<img src="https://github.com/zhangkaitao/shiro-example/blob/master/1.jpg" width = "200" style="align:left"/>
 
