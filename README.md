@@ -18,3 +18,5 @@ pyinstaller
 
 命令 pyinstaller -Fd ./mosin.py
 
+<img ./demo.png />
+
